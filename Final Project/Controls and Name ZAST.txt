@@ -1,0 +1,8 @@
+A to move left
+D to move right
+Space to drop the claw
+
+Background in the back, everything else on the same layer in front of it
+
+Game name is Claw Machine
+author name is Carnival King
